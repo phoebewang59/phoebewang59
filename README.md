@@ -8,7 +8,7 @@ I’m a Behavioral & Social Data Science major at UT Austin interested in:
 
 I’m passionate about using machine learning and statistical modeling to understand human behavior and real-world systems.
 
-**Tech:** Python, R, scikit-learn, tidyverse, igraph  
+**Tools:** Python, R, scikit-learn, tidyverse, igraph  
 
 **Highlighted Projects:**    
 - Leap Motion hand-tracking + kinematic feature extraction
