@@ -14,4 +14,3 @@ I’m passionate about using machine learning and statistical modeling to unders
 - Leap Motion hand-tracking + kinematic feature extraction
 - Reddit mental health sentiment & network analysis  
 - NYC motor vehicle crash analysis
-- Diabetes risk-factor ML modeling   
