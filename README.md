@@ -1,10 +1,12 @@
 # Hi, I’m Feng Chun (Phoebe) Wang 👋
 
-I’m a **Behavioral & Social Data Science** senior at UT Austin interested in:
-- Machine learning  
+I graduated from UT Austin with a Bachelor of Science in **Behavioral & Social Data Science**. I am interested in:
+
+- Statistical Analysis
 - Human behavior  
 - Network & sentiment analysis  
-- Human–computer interaction  
+- Human–computer interaction
+- Machine learning 
 
 I’m passionate about using machine learning and statistical modeling to understand human behavior and real-world systems.
 
