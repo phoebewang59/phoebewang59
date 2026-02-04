@@ -5,7 +5,6 @@ I graduated from UT Austin with a Bachelor of Science in **Behavioral & Social D
 - Statistical Analysis
 - Human behavior  
 - Network & sentiment analysis  
-- Human–computer interaction
 - Machine learning 
 
 I’m passionate about using machine learning and statistical modeling to understand human behavior and real-world systems.
